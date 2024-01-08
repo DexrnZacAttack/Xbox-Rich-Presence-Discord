@@ -16,13 +16,13 @@
 
 
 ## Installation
-1. Download the [latest release](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/releases) and install it following instructions on the setup
+1. Download the [latest release](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/releases) and install it following instructions on the setup. If it asks you to download .NET, please download it from [here](https://download.visualstudio.microsoft.com/download/pr/b6fe5f2a-95f4-46f1-9824-f5994f10bc69/db5ec9b47ec877b5276f83a185fdb6a0/windowsdesktop-runtime-5.0.17-win-x86.exe).
 
-2. Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
+3. Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
 
-3. Open the app and insert your Gamertag and API key
+4. Open the app and insert your Gamertag and API key
 
-4. Press Start!
+5. Press Start!
 
 
 ## To-Do list
